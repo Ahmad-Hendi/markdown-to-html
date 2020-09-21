@@ -1,0 +1,58 @@
+*{
+    font-family: Arial;
+}
+
+div h1{
+    text-align: center;
+
+}
+
+div p{
+    text-align: center;
+
+
+}
+
+.me {
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: 330px;
+}
+
+/*.image{
+    margin: 55px;
+    margin-left: 200px;
+    padding: 3% 3%;
+    height: 500px;
+    width: 500px;
+    background-image: url("me.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+*/
+
+.aboutme{
+    text-align:center;
+
+
+}
+
+
+.section-funny h3{
+    text-align: center;
+    letter-spacing:3px;
+}
+
+
+.service-section .container .row img{
+    padding:10px;
+    display: block;
+    float: left;
+}
+
+
+
+
+
